@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+  
+  
+.covidData__country__info {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  padding-left: 10px;
+  background-color: rgb(0, 255, 255);
+  margin-top: 20px;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  text-shadow: 1px 1px 2px rgb(71, 67, 67);
+  box-shadow: 12px 12px 30px rgb(71, 67, 67);
+}
+.xyz{
+  margin-bottom: 3rem;
+}
+
+/* challange 3 CSS */
+.greeting {
+  font-size: 20px;
+  font-family: sans-serif;
+  width: 20rem;
+  height: auto;
+  padding: 5px;
+  background-color: rgb(251, 255, 188);
+  padding: 1.5rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  align-items: center;
+  border-radius: 1rem;
+  box-shadow: 12px 12px 30px rgb(71, 67, 67);
+}
+
+#text {
+  color: rgba(255, 0, 0, 0.856);
+  font-weight: 900;
+  font-size: 1.5rem;
+  text-align: center;
+}
